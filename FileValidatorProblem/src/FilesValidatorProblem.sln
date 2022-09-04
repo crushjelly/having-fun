@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesValidatorProblem", "FileValidatorProblem.Core\FilesValidatorProblem.csproj", "{D00AFEE0-1957-4498-8740-E31A89BA0BED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground", "Playground\Playground.csproj", "{54511FA9-0EF1-47EC-9FC0-55714BF4ACA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00AFEE0-1957-4498-8740-E31A89BA0BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00AFEE0-1957-4498-8740-E31A89BA0BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00AFEE0-1957-4498-8740-E31A89BA0BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00AFEE0-1957-4498-8740-E31A89BA0BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54511FA9-0EF1-47EC-9FC0-55714BF4ACA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54511FA9-0EF1-47EC-9FC0-55714BF4ACA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54511FA9-0EF1-47EC-9FC0-55714BF4ACA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54511FA9-0EF1-47EC-9FC0-55714BF4ACA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7055A9B1-AB2D-4B61-BC7F-58123F32CE24}
+	EndGlobalSection
+EndGlobal
